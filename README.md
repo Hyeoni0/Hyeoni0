@@ -1,14 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hyeonwoo%20Lee&desc=안녕하세요%20풀스택%20개발자%20이현우%20입니다.&descAlignY=57&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hyeonwoo%20Lee&desc=안녕하세요%20풀스택%20개발자%20이현우%20입니다.&descAlignY=55&fontAlignY=40)
 
+## 🙋🏻 How I Work
+업무 및 목표 달성 과정에서 재미를 찾는 편입니다! 🌟  
+동료에게 긍정적 영향을 주는 일은 그 자체가 동기부여가 됩니다! 🚀  
+문제도 생기더라도 그 상황 안에서 해결할 수 있는 방향을 찾습니다! 🕵️  
+함께 정한 기한은 반드시 지키려고 노력합니다. 📆  
 
-
-안녕하세요! 이현우입니다! 😊<br>
-효율적으로 일하며, 사용자 경험을 최우선으로 생각하는 개발자입니다. 🌟<br>
-사용자들이 편리하고 즐거운 경험을 쌓을 수 있도록 노력하고 있습니다! 🚀<br>
-계속해서 사용자 중심의 서비스를 위해 개발하고 있습니다! 🐇<br>
-
-
-## 🏠 https://...
 ## 🔥 Skills
 ### 🌠 Front-End :
 <p>
@@ -50,8 +47,5 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp
 </p>
 
-
-## 📧 Email
-<p>
-  <Strong>ehwhy7@gmail.com</Strong>
-</p>
+## 🏠 https://...
+## 📧 Email : ehwhy7@gmail.com
