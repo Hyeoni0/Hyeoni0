@@ -47,5 +47,5 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp
 </p>
 
-## 🏠 https://...
+## 🏠 https://hyeoni0.github.io/
 ## 📧 Email : ehwhy7@gmail.com
