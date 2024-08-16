@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hyeonwoo%20Lee👋&desc=안녕하세요%20풀스택%20개발자%20이현우%20입니다.&descAlignY=55&fontAlignY=40)
 
 ## 🙋🏻 How I Work
-업무 및 목표 달성 과정에서 재미를 찾는 편입니다! 🌟  
-동료에게 긍정적 영향을 주는 일은 그 자체가 동기부여가 됩니다! 🚀  
+목표 달성 과정에서 재미를 찾는 편입니다! 🌟   
 문제도 생기더라도 그 상황 안에서 해결할 수 있는 방향을 찾습니다! 🕵️  
-함께 정한 기한은 반드시 지키려고 노력합니다. 📆  
+함께 하는 사람들과 즐겁게 일하기 위해 노력합니다! 🚀  
+이왕 하는거 웃으면서 재밌고 멋지게 해봅시다! 🤣
 
 ## 🔥 Skills
 ### 🌠 Front-End
